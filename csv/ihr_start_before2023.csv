@@ -1,0 +1,607 @@
+EmpNum,WorkEmail,LastName,FirstName,PreferredName,HireDate,Team,Location,PayRateCurrency,PayRate,PaySchedule
+GH00649,gary.she@crypto.com,tbc,,Gary,5-Dec-2022,Product,China,CNY,144000,Year
+GH00648,roger.rao@crypto.com,tbc,,Roger,5-Dec-2022,Product,China,CNY,23000,Month
+GH00647,jimmy.liu@crypto.com,Jimmy Liu,,Jimmy,21-Nov-2022,Product,China,CNY,180000,Year
+GH00195,,tbc,,"Liang, Jianhua",1-Jul-2022,Tech,China,CNY,8400,Month
+GH00644,xingzhao.zhu@crypto.com,Xingzhao Zhu,,Xingzhao,20-Jun-2022,Tech,China,CNY,35000,Month
+GH00643,gary.gao@crypto.com,Gary Gao,,Gary,9-Jun-2022,Tech,China,,,
+GH00642,,Sam Shao,,Sam,7-Jun-2022,Tech,China,,,
+GH00641,stella.xu@crypto.com,Stella Xu,,Stella,6-Jun-2022,Cronos,China,CNY,35000,Month
+GH00639,vera.zhang@crypto.com,Vera Zhang,,Vera,1-Jun-2022,Product,China,CNY,15000,Month
+GH00638,,Burt Lai,,Burt,1-Jun-2022,Tech,China,,,
+GH00640,,Junhua Huang,,Junhua,1-Jun-2022,Tech,China,,,
+GH00637,,Huahui Gao,,Huahui,25-May-2022,Tech,China,,,
+GH00636,,Spike Wang,,Spike,25-May-2022,Tech,China,CNY,39000,Month
+GH00632,,Lyoko Hou,,Lyoko,23-May-2022,Tech,China,,,
+GH00635,,Tom Cheng,,Tom,23-May-2022,Tech,China,,,
+GH00634,,Fan Gao,,Fan,23-May-2022,Tech,China,CNY,34000,Month
+GH00631,,Ling Yang,,Ling,23-May-2022,Tech,China,CNY,42000,Month
+GH00633,ting.luo@crypto.com,Ting Luo,,Ting,23-May-2022,Tech,China,CNY,25000,Month
+GH00630,merrick.luo@crypto.com,Merrick Luo,,Merrick,19-May-2022,Tech,China,CNY,28000,Month
+GH00628,chase.chen@crypto.com,Chase Chen,,Chase,18-May-2022,Trading,China,CNY,19000,Month
+GH00629,,John Chen,,John,18-May-2022,Tech,China,CNY,42000,Month
+GH00625,,Will Li,,Will,16-May-2022,Tech,China,,,
+GH00622,,Boris Ding,,Boris,16-May-2022,Tech,China,,,
+GH00623,,Cindy Sang,,Cindy,16-May-2022,Tech,China,,,
+GH00616,,Laura Liu,,Laura,16-May-2022,Tech,China,,,
+GH00620,,Kerri Huang,,Kerri,16-May-2022,Tech,China,,,
+GH00615,,Venus Du,,Venus,16-May-2022,Tech,China,,,
+GH00567,sean.jiang@crypto.com,Sean Jiang,,Sean,16-May-2022,Tech,China,CNY,31000,Month
+GH00618,,Rebecca Liang,,Rebecca,16-May-2022,Tech,China,CNY,25000,Month
+GH00621,,Yolanda Yin,,Yolanda,16-May-2022,Tech,China,CNY,30000,Month
+GH00617,lexi.li@crypto.com,Lexi Li,,Lexi,16-May-2022,Product,China,CNY,43000,Month
+GH00626,,Chris Zhu,,Chris,16-May-2022,Tech,China,CNY,42000,Month
+GH00627,,Vitty Xiong,,Vitty,16-May-2022,Tech,China,CNY,56000,Month
+GH00619,,Jiahui Huang,,Jiahui,16-May-2022,Product,China,CNY,11000,Month
+GH00624,,Roc Xie,,Roc,16-May-2022,Tech,China,,,
+GH00614,,Willen Chen,,Willen,11-May-2022,Tech,China,CNY,38000,Month
+GH00611,alan.wang@crypto.com,Alan Wang,,Alan,10-May-2022,Trading,China,CNY,31000,Month
+GH00610,,Shunli Sun,,Shunli,10-May-2022,Trading,China,,,
+GH00609,hanfeng.qin@crypto.com,Hanfeng Qin,,Hanfeng,10-May-2022,Tech,China,CNY,45000,Month
+GH00612,,Yeston Yu,,Yeston,10-May-2022,Tech,China,,,
+GH00613,yepeng.liang@crypto.com,Yepeng Liang,,Yepeng,10-May-2022,Tech,China,CNY,25000,Month
+GH00600,,Dan Tu,,Dan,9-May-2022,Tech,China,CNY,38000,Month
+GH00606,jam.guo@crypto.com,Jam Guo,,Jam,9-May-2022,Cronos,China,CNY,32000,Month
+GH00602,,Chacha Zhou,,Chacha,9-May-2022,Tech,China,CNY,30000,Month
+GH00605,,Kitty Wu,,Kitty,9-May-2022,Tech,China,CNY,41000,Month
+GH00592,zan.wang@crypto.com,Zan Wang,,Zan,9-May-2022,Tech,China,CNY,40000,Month
+GH00595,arthur.hu@crypto.com,Arthur Hu,,Arthur,9-May-2022,Tech,China,CNY,52000,Month
+GH00598,,Jian Li,,Jian,9-May-2022,Tech,China,CNY,24000,Month
+GH00607,,Lei Qu,,Lei,9-May-2022,Tech,China,CNY,50000,Month
+GH00591,,Rean Luo,,Rean,9-May-2022,Tech,China,CNY,32000,Month
+GH00593,goodspeed.huang@crypto.com,Goodspeed Huang,,Goodspeed,9-May-2022,Tech,China,CNY,37000,Month
+GH00594,,Noora Tian,,Noora,9-May-2022,Product,China,,,
+GH00604,,Janice Li,,Janice,9-May-2022,Product,China,CNY,11000,Month
+GH00599,,Polo Luo,,Polo,9-May-2022,Tech,China,CNY,26000,Month
+GH00596,kathy.zhou@crypto.com,Kathy Zhou,,Kathy,9-May-2022,Tech,China,CNY,18000,Month
+GH00597,daisy.liu@crypto.com,Daisy Liu,,Daisy,9-May-2022,Product,China,CNY,19000,Month
+GH00601,,Jett Guo,,Jett,9-May-2022,Tech,China,,,
+GH00603,,Frank Gan,,Frank,9-May-2022,Tech,China,,,
+GH00608,,Philips Xian,,Philips,9-May-2022,Tech,China,,,
+GH00588,lucia.lu@crypto.com,Lucia Lu,,Lucia,5-May-2022,Tech,China,CNY,29000,Month
+GH00582,shengfa.wang@crypto.com,Shengfa Wang,,Shengfa,5-May-2022,Tech,China,CNY,36000,Month
+GH00581,,Yao Long,,Yao,5-May-2022,Tech,China,CNY,29000,Month
+GH00586,jinwen.zhang@crypto.com,Jinwen Zhang,,Jinwen,5-May-2022,Tech,China,CNY,40000,Month
+GH00590,,Zoe Tang,,Zoe,5-May-2022,Tech,China,CNY,28000,Month
+GH00578,,Rafael Chen,,Rafael,5-May-2022,Product,China,CNY,41000,Month
+GH00584,bokim.xian@crypto.com,Bokim Xian,,Bokim,5-May-2022,Human Resources,China,CNY,9000,Month
+GH00587,yvonne.shi@crypto.com,Yvonne Shi,,Yvonne,5-May-2022,Tech,China,CNY,50000,Month
+GH00579,,Yidan Huang,,Yidan,5-May-2022,Product,China,CNY,13000,Month
+GH00580,,Titi Tang,,Titi,5-May-2022,Product,China,CNY,17000,Month
+GH00583,jelly.li@crypto.com,Jelly Li,,Jelly,5-May-2022,Product,China,CNY,19000,Month
+GH00589,,Albert Fang,,Albert,5-May-2022,Tech,China,,,
+GH00585,,Gavin Li,,Gavin,5-May-2022,Tech,China,,,
+GH00575,qiaowei.guo@crypto.com,Qiaowei Guo,,Qiaowei,26-Apr-2022,Tech,China,,,
+GH00555,eric.ye@crypto.com,Eric Ye,,Eric,25-Apr-2022,Tech,China,CNY,25000,Month
+GH00564,jonas.zeng@crypto.com,Jonas Zeng,,Jonas,25-Apr-2022,Tech,China,CNY,30000,Month
+GH00559,haitao.you@crypto.com,Haitao You,,Haitao,25-Apr-2022,Tech,China,CNY,33000,Month
+GH00558,bryan.huang@crypto.com,Bryan Huang,,Bryan,25-Apr-2022,Tech,China,CNY,32000,Month
+GH00566,anthony.wang@crypto.com,Anthony Wang,,Anthony,25-Apr-2022,Tech,China,CNY,38000,Month
+GH00563,liling.yu@crypto.com,Liling Yu,,Liling,25-Apr-2022,Tech,China,CNY,24000,Month
+GH00570,zoe.l.zhang@crypto.com,Zoe L Zhang,,Zoe,25-Apr-2022,Tech,China,CNY,39000,Month
+GH00572,shijia.lang@crypto.com,Shijia Lang,,Shijia,25-Apr-2022,Tech,China,CNY,32000,Month
+GH00554,patrick.zhao@crypto.com,Patrick Zhao,,Patrick,25-Apr-2022,Tech,China,CNY,32000,Month
+GH00569,weiyi.wu@crypto.com,Weiyi Wu,,Weiyi,25-Apr-2022,Tech,China,CNY,25000,Month
+GH00548,ellie.chen@crypto.com,Ellie Chen,,Ellie,25-Apr-2022,Tech,China,CNY,29000,Month
+GH00573,gordon.luo@crypto.com,Gordon Luo,,Gordon,25-Apr-2022,Tech,China,CNY,37000,Month
+GH00549,fan.mao@crypto.com,Fan Mao,,Fan,25-Apr-2022,Tech,China,CNY,48000,Month
+GH00560,connor.zhu@crypto.com,Connor Zhu,,Connor,25-Apr-2022,Security,China,CNY,42000,Month
+GH00553,roc.liao@crypto.com,Roc Liao,,Roc,25-Apr-2022,Tech,China,CNY,60000,Month
+GH00556,sophia.chi@crypto.com,Sophia Chi,,Sophia,25-Apr-2022,Product,China,CNY,50000,Month
+GH00562,gordon.gao@crypto.com,Gordon Gao,,Gordon,25-Apr-2022,Tech,China,CNY,37000,Month
+GH00565,tszlam.li@crypto.com,Tszlam Li,,Tszlam,25-Apr-2022,Trading,China,CNY,44000,Month
+GH00568,john.zl.huang@crypto.com,John ZL Huang,,John ZL,25-Apr-2022,Tech,China,CNY,32000,Month
+GH00547,sunny.yang@crypto.com,Sunny Yang,,Sunny,25-Apr-2022,Product,China,CNY,17000,Month
+GH00550,violet.yang@crypto.com,Violet Yang,,Violet,25-Apr-2022,Product,China,CNY,12000,Month
+GH00546,merlin.chen@crypto.com,Merlin Chen,,Merlin,25-Apr-2022,Product,China,CNY,28000,Month
+GH00551,wynter.gu@crypto.com,Wynter Gu,,Wynter,25-Apr-2022,Talent Acquisition,China,CNY,16000,Month
+GH00571,parker.wang@crypto.com,Parker Wang,,Parker,25-Apr-2022,Tech,China,,,
+GH00552,larry.li@crypto.com,Larry Li,,Larry,25-Apr-2022,Tech,China,,,
+GH00561,yi.zhong@crypto.com,Yi Zhong,,Yi,25-Apr-2022,Tech,China,,,
+GH00574,intern-justin@crypto.com,Justin Chen,,Justin,25-Apr-2022,Talent Acquisition,China,,,
+GH00557,ximi.zheng@crypto.com,Ximi Zheng,,Ximi,25-Apr-2022,Product,China,,,
+GH00545,jian.lei@crypto.com,Jian Lei,,Jian,20-Apr-2022,Tech,China,CNY,25000,Month
+GH00543,alson.ye@crypto.com,Alson Ye,,Alson,20-Apr-2022,Cronos,China,CNY,31000,Month
+GH00540,sundar.zhou@crypto.com,Sundar Zhou,,Sundar,20-Apr-2022,Tech,China,CNY,21000,Month
+GH00544,hayman.yu@crypto.com,Hayman Yu,,Hayman,20-Apr-2022,Tech,China,CNY,30000,Month
+GH00539,fir.hu@crypto.com,Fir Hu,,Fir,20-Apr-2022,Trading,China,CNY,33000,Month
+GH00541,ken.zheng@crypto.com,Ken Zheng,,Ken,20-Apr-2022,Tech,China,,,
+GH00542,jian.liu@crypto.com,Jian Liu,,Jian,19-Apr-2022,Tech,China,CNY,40000,Month
+GH00508,malvin.luo@crypto.com,Malvin Luo,,Malvin,19-Apr-2022,Tech,China,CNY,40000,Month
+GH00534,rocky.liu@crypto.com,Rocky Liu,,Rocky,18-Apr-2022,Tech,China,CNY,45000,Month
+GH00535,jaso.wei@crypto.com,Jaso Wei,,Jaso,18-Apr-2022,Tech,China,CNY,30000,Month
+GH00530,haley.yun@crypto.com,Haley Yun,,Haley,18-Apr-2022,Tech,China,CNY,30000,Month
+GH00532,cecilie.ding@crypto.com,Cecilie Ding,,Cecilie,18-Apr-2022,Product,China,CNY,32000,Month
+GH00529,david.li@crypto.com,David Li,,David,18-Apr-2022,Tech,China,CNY,56000,Month
+GH00538,yafei.wang@crypto.com,Yafei Wang,,Yafei,18-Apr-2022,Tech,China,CNY,36000,Month
+GH00533,yongdong.zou@crypto.com,Yongdong Zou,,Yongdong,18-Apr-2022,Tech,China,CNY,34000,Month
+GH00536,luis.liu@crypto.com,Luis Liu,,Luis,18-Apr-2022,Tech,China,,,
+GH00537,chris.liang@crypto.com,Chris Liang,,Chris,18-Apr-2022,Trading,China,,,
+GH00531,Under probation,Frank Zou,,Frank,18-Apr-2022,Tech,China,,,
+GH00527,chris.liu@crypto.com,Chris Liu,,Chris,12-Apr-2022,Tech,China,CNY,25000,Month
+GH00528,kala.xu@crypto.com,Kala Xu,,Kala,12-Apr-2022,Trading,China,,,
+GH00521,angel.yang@crypto.com,Angel Yang,,Angel,11-Apr-2022,Tech,China,CNY,28000,Month
+GH00518,jintong.sun@crypto.com,Jintong Sun,,Jintong,11-Apr-2022,Tech,China,CNY,26000,Month
+GH00515,joss.li@crypto.com,Joss Li,,Joss,11-Apr-2022,Cronos,China,CNY,38000,Month
+GH00524,steven.ju@crypto.com,Steven Ju,,Steven,11-Apr-2022,Tech,China,CNY,27000,Month
+GH00519,fei.zhang@crypto.com,Fei Zhang,,Fei,11-Apr-2022,Tech,China,CNY,45000,Month
+GH00523,jax.chen@crypto.com,Jax Chen,,Jax,11-Apr-2022,Tech,China,CNY,42000,Month
+GH00516,frank.wang@crypto.com,Frank Wang,,Frank,11-Apr-2022,Tech,China,CNY,40000,Month
+GH00526,mendes.zhang@crypto.com,Mendes Zhang,,Mendes,11-Apr-2022,Cronos,China,CNY,23000,Month
+GH00517,kc.chen@crypto.com,KC Chen,,KC,11-Apr-2022,Product,China,CNY,24000,Month
+GH00522,eva.ding@crypto.com,Eva Ding,,Eva,11-Apr-2022,Product,China,CNY,29000,Month
+GH00520,shadow.chen@crypto.com,Shadow Chen,,Shadow,11-Apr-2022,Product,China,,,
+GH00525,mark.ma@crypto.com,Mark Ma,,Mark,11-Apr-2022,Tech,China,,,
+GH00514,maxwel.du@crypto.com,Maxwel Du,,Maxwel,11-Apr-2022,Tech,China,,,
+GH00507,zhiyong.hu@crypto.com,Zhiyong Hu,,Zhiyong,6-Apr-2022,Cronos,China,CNY,32000,Month
+GH00510,an.huang@crypto.com,An Huang,,An,6-Apr-2022,Tech,China,CNY,28000,Month
+GH00504,finn.wang@crypto.com,Finn Wang,,Finn,6-Apr-2022,Trading,China,CNY,43000,Month
+GH00512,li.liu@crypto.com,Li Liu,,Li,6-Apr-2022,Tech,China,CNY,45000,Month
+GH00511,junwei.li@crypto.com,Junwei Li,,Junwei,6-Apr-2022,Tech,China,CNY,20000,Month
+GH00505,chloe.ban@crypto.com,Chloe Ban,,Chloe,6-Apr-2022,Tech,China,CNY,15000,Month
+GH00513,serena.luo@crypto.com,Serena Luo,,Serena,6-Apr-2022,Product,China,CNY,28000,Month
+GH00506,xiaochun.zhang@crypto.com,Xiaochun Zhang,,Xiaochun,6-Apr-2022,Tech,China,CNY,44000,Month
+GH00503,jason.hu@crypto.com,Jason Hu,,Jason,6-Apr-2022,Tech,China,,,
+GH00509,hawk.liu@crypto.com,Hawk Liu,,Hawk,6-Apr-2022,Tech,China,,,
+GH00502,jean.zhu@crypto.com,Jean ZHU,,Jean,1-Apr-2022,Tech,China,CNY,19000,Month
+GH00496,born.zhao@crypto.com,Born Zhao,,Born,28-Mar-2022,Tech,China,CNY,31000,Month
+GH00497,guocang.yang@crypto.com,Guocang Yang,,Guocang,28-Mar-2022,Tech,China,CNY,42000,Month
+GH00500,corvinus.fang@crypto.com,Corvinus Fang,,Corvinus,28-Mar-2022,Tech,China,CNY,35000,Month
+GH00498,dacker.li@crypto.com,Dacker Li,,Dacker,28-Mar-2022,Tech,China,CNY,32000,Month
+GH00499,feiping.huang@crypto.com,Feiping Huang,,Feiping,28-Mar-2022,Tech,China,CNY,35000,Month
+GH00493,leslie.xs.zhang@crypto.com,Leslie XS Zhang,,Leslie,28-Mar-2022,Tech,China,CNY,36000,Month
+GH00501,leon.liu@crypto.com,Leon Liu,,Leon,28-Mar-2022,Product,China,CNY,37000,Month
+GH00494,durant.du@crypto.com,Durant Du,,Durant,28-Mar-2022,Tech,China,,,
+GH00495,mingliang.luo@crypto.com,Mingliang Luo,,"Luo, Mingliang",28-Mar-2022,Tech,China,,,
+GH00490,mike.yu@crypto.com,Mike Yu,,Mike,22-Mar-2022,Cronos,China,CNY,29000,Month
+GH00489,molly.ma@crypto.com,Molly Ma,,Molly,22-Mar-2022,Tech,China,CNY,33000,Month
+GH00491,bach.xu@crypto.com,Bach Xu,,Bach,22-Mar-2022,Tech,China,CNY,28000,Month
+GH00492,zhang.cheng@crypto.com,Zhang Cheng,,Zhang,22-Mar-2022,Tech,China,,,
+GH00488,jiajian.lu@crypto.com,Jiajian Lu,,Jiajian,21-Mar-2022,Tech,China,CNY,28000,Month
+GH00484,terry.tu@crypto.com,Terry Tu,,Terry,21-Mar-2022,Tech,China,CNY,45000,Month
+GH00487,ting.guo@crypto.com,Ting Guo,,Ting,21-Mar-2022,Tech,China,CNY,28000,Month
+GH00482,weizhen.shi@crypto.com,Weizhen Shi,,Weizhen,21-Mar-2022,Tech,China,CNY,32000,Month
+GH00486,jason.cs.li@crypto.com,Jason Li(CS),,Jason,21-Mar-2022,Tech,China,CNY,42000,Month
+GH00479,arvin.huang@crypto.com,Arvin Huang,,Arvin,21-Mar-2022,Tech,China,CNY,33000,Month
+GH00485,lily.fu@crypto.com,Lily Fu,,Lily,21-Mar-2022,Product,China,CNY,19000,Month
+GH00460,emily.bi@crypto.com,Emily Bi,,Emily,21-Mar-2022,Product,China,CNY,20000,Month
+GH00483,yiming.fu@crypto.com,Yiming Fu,,Yiming,21-Mar-2022,Tech,China,,,
+GH00481,zhiguo.geng@crypto.com,Zhiguo Geng,,Zhiguo,21-Mar-2022,Tech,China,,,
+GH00480,amy.zuo@crypto.com,Amy Zuo,,Amy,21-Mar-2022,Tech,China,,,
+GH00478,jessica.liu@crypto.com,Jessica Liu,,Jessica,15-Mar-2022,Tech,China,CNY,40000,Month
+GH00474,safeer.jiang@crypto.com,Safeer Jiang,,Safeer,15-Mar-2022,Security,China,CNY,25000,Month
+GH00475,terence.chen@crypto.com,Terence Chen,,Terence,15-Mar-2022,Product,China,CNY,23000,Month
+GH00476,rail.ou@crypto.com,Rail Ou,,Rail,15-Mar-2022,Tech,China,CNY,30000,Month
+GH00471,kerry.chen@crypto.com,Kerry Chen,,Kerry,15-Mar-2022,Product,China,CNY,17000,Month
+GH00473,linda.zhang@crypto.com,Linda Zhang,,Linda,15-Mar-2022,Product,China,CNY,23000,Month
+GH00477,jane.guo@crypto.com,Jane Guo,,Jane,15-Mar-2022,Product,China,CNY,15000,Month
+GH00472,zhidian.xu@crypto.com,Zhidian Xu,,Zhidian,15-Mar-2022,Tech,China,CNY,30000,Month
+GH00470,jimmy.ma@crypto.com,Jimmy Ma,,Jimmy,11-Mar-2022,Tech,China,,,
+GH00469,amber.wang@crypto.com,Amber Wang,,Amber,8-Mar-2022,Trading,China,,,
+GH00462,sophia.guo@crypto.com,Sophia Guo,,Sophia,7-Mar-2022,Tech,China,CNY,33000,Month
+GH00468,will.guo@crypto.com,Will Guo,,Will,7-Mar-2022,Trading,China,CNY,27000,Month
+GH00463,robin.li@crypto.com,Robin Li,,Robin,7-Mar-2022,Tech,China,CNY,37500,Month
+GH00467,sophia.liu@crypto.com,Sophia Liu,,Sophia,7-Mar-2022,Product,China,CNY,19000,Month
+GH00464,siyuan.hao@crypto.com,Siyuan Hao,,Siyuan,7-Mar-2022,Tech,China,CNY,42000,Month
+GH00461,yannick.hu@crypto.com,Yannick Hu,,Yannick,7-Mar-2022,Product,China,CNY,12000,Month
+GH00465,kejin.long@crypto.com,Kejin Long,,Kejin,7-Mar-2022,Tech,China,,,
+GH00466,xibiao.liu@crypto.com,Xibiao Liu,,Xibiao,7-Mar-2022,Tech,China,,,
+GH00458,jinyu.zhou@crypto.com,Jinyu Zhou,,Jinyu,1-Mar-2022,Tech,China,CNY,42000,Month
+GH00453,liang.chen@crypto.com,Liang Chen,,Liang,28-Feb-2022,Cronos,China,CNY,45000,Month
+GH00451,ketty.zhang@crypto.com,Ketty Zhang,,Ketty,28-Feb-2022,Product,China,CNY,25000,Month
+GH00452,Under probation,Joe Zhong,,Joe,28-Feb-2022,Tech,China,,,
+GH00455,archer.yang@crypto.com,Archer Yang,,Archer,25-Feb-2022,Tech,China,CNY,38000,Month
+GH00454,jiachen.liu@crypto.com,JiaChen Liu,,JiaChen,22-Feb-2022,Cronos,China,CNY,40000,Month
+GH00448,sylvia.huang@crypto.com,Sylvia Huang,,Sylvia,21-Feb-2022,Tech,China,CNY,30000,Month
+GH00450,dufei.chen@crypto.com,Dufei Chen,,Dufei,21-Feb-2022,Product,China,CNY,23000,Month
+GH00449,emma.liu@crypto.com,Emma Liu,,Emma,21-Feb-2022,Cronos,China,CNY,30000,Month
+GH00447,eric.zou@crypto.com,Eric Zou,,Eric,21-Feb-2022,Product,China,CNY,28000,Month
+GH00446,lance.qiu@crypto.com,Lance Qiu,,Lance,21-Feb-2022,Product,China,,,
+GH00444,charlie.hua@crypto.com,Charlie Hua,,Charlie,21-Feb-2022,Tech,China,,,
+GH00445,billy.shen@crypto.com,Billy Shen,,Billy,21-Feb-2022,Tech,China,,,
+GH00440,felix.liang@crypto.com,Felix Liang,,Felix,17-Feb-2022,Tech,China,CNY,42000,Month
+GH00442,mingle.huang@crypto.com,Mingle Huang,,Mingle,17-Feb-2022,Tech,China,CNY,37000,Month
+GH00439,jack.feng@crypto.com,Jack Feng,,Jack,17-Feb-2022,Tech,China,CNY,32000,Month
+GH00443,jet.liu@crypto.com,Jet Liu,,Jet,17-Feb-2022,Tech,China,CNY,45000,Month
+GH00441,jianchao.wu@crypto.com,Jianchao Wu,,Jianchao,17-Feb-2022,Product,China,CNY,16000,Month
+GH00438,bob.liu@crypto.com,Bob Liu,,Bob,17-Feb-2022,Tech,China,,,
+GH00437,iron.li@crypto.com,Iron Li,,Iron,17-Feb-2022,Tech,China,,,
+GH00436,liangli.zou@crypto.com,Liangli Zou,,Liangli,15-Feb-2022,Tech,China,CNY,28000,Month
+GH00433,ruidong.yang@crypto.com,Ruidong Yang,,Ruidong,11-Feb-2022,Tech,China,CNY,41000,Month
+GH00435,wei.rong@crypto.com,Wei Rong,,Wei,11-Feb-2022,Cronos,China,CNY,37000,Month
+GH00434,zengzeng.sun@crypto.com,Zengzeng Sun,,Zengzeng,11-Feb-2022,Tech,China,,,
+GH00432,luis.zhang@crypto.com,Luis Zhang,,Luis,9-Feb-2022,Tech,China,CNY,26000,Month
+GH00431,zijun.li@crypto.com,Zijun Li,,Zijun,9-Feb-2022,Trading,China,CNY,26000,Month
+GH00429,shuaifeng.xin@crypto.com,Shuaifeng Xin,,Shuaifeng,9-Feb-2022,Tech,China,CNY,37000,Month
+GH00430,luke.he@crypto.com,Luke He,,Luke,9-Feb-2022,Tech,China,,,
+GH00425,chang.liu@crypto.com,Chang Liu,,Chang,17-Jan-2022,Tech,China,CNY,33000,Month
+GH00426,nino.zhang@crypto.com,Nino Zhang,,Nino,17-Jan-2022,Tech,China,CNY,30000,Month
+GH00427,daniel.wang@crypto.com,Daniel Wang,,Daniel,17-Jan-2022,Tech,China,CNY,33000,Month
+GH00424,warren.pan@crypto.com,Warren Pan,,Warren,17-Jan-2022,Cronos,China,CNY,37000,Month
+GH00428,rick.zhang@crypto.com,Rick Zhang,,Rick,17-Jan-2022,Tech,China,,,
+GH00422,hans.han@crypto.com,Hans Han,,Hans,12-Jan-2022,Tech,China,CNY,32000,Month
+GH00423,jack.pan@crypto.com,Jack Pan,,Jack,12-Jan-2022,Tech,China,CNY,40000,Month
+GH00421,yi.zhang@crypto.com,Yi Zhang,,Yi,12-Jan-2022,Tech,China,CNY,45000,Month
+GH00420,tandy.tang@crypto.com,Tandy Tang,,Tandy,10-Jan-2022,Tech,China,,,
+GH00419,todd.li@crypto.com,Todd Li,,Todd,10-Jan-2022,Tech,China,,,
+GH00418,joiky.gao@crypto.com,Joiky Gao,,Joiky,4-Jan-2022,Tech,China,CNY,51000,Month
+GH00417,jo.chen@crypto.com,Jo Chen,,Jo,4-Jan-2022,Product,China,CNY,24000,Month
+GH00414,andy.hu@crypto.com,"Hu, Shibei",,Andy,27-Dec-2021,Tech,China,CNY,36000,Month
+GH00415,hunter.song@crypto.com,"Song, Xiaohang",,Hunter,27-Dec-2021,Cronos,China,CNY,33000,Month
+GH00416,brandon.nie@crypto.com,"Nie, Jingfa",,Brandon,27-Dec-2021,Tech,China,CNY,32000,Month
+GH00405,daniel.liang@crypto.com,Daniel Liang,,Daniel,20-Dec-2021,Tech,China,,,
+GH00406,dong.wang@crypto.com,"Wang, Dong",,"Wang, Dong",20-Dec-2021,Tech,China,CNY,35000,Month
+GH00407,liz.zhou@crypto.com,"Zhou, Tingting",,Liz,20-Dec-2021,Product,China,CNY,9000,Month
+GH00408,johnny.zhou@crypto.com,"Zhou, Jianfeng",,Johnny,20-Dec-2021,Tech,China,CNY,27000,Month
+GH00409,william.feng@crypto.com,"Feng, Zhenyu",,William,20-Dec-2021,Blockchain,China,CNY,48000,Month
+GH00410,yao.zhao@crypto.com,"Zhao, Yao",,"Zhao, Yao",20-Dec-2021,Tech,China,CNY,27000,Month
+GH00411,yiping.wu@crypto.com,"Wu, Yiping",,"Wu, Yiping",20-Dec-2021,Tech,China,CNY,29000,Month
+GH00412,conrad.liu@crypto.com,"Liu, Zhiqian",,Conrad,20-Dec-2021,Product,China,CNY,30000,Month
+GH00413,terry.ma@crypto.com,"Ma, Xiaolang",,Terry,20-Dec-2021,Tech,China,CNY,50000,Month
+GH00404,kylie.lin@crypto.com,"Lin, Kaitong",,Kylie,15-Dec-2021,Tech,China,CNY,33000,Month
+GH00403,nemo.mo@crypto.com,"Mo, Meiling",,Nemo,10-Dec-2021,Product,China,CNY,27000,Month
+GH00401,dexter.huang@crypto.com,Dexter Huang,,Dexter,6-Dec-2021,Tech,China,,,
+GH00400,hanson.ye@crypto.com,Hanson Ye,,Hanson,6-Dec-2021,Tech,China,,,
+GH00402,ajaine.fan@crypto.com,"Fan, Shenxia",,Ajaine,6-Dec-2021,Tech,China,CNY,23000,Month
+GH00398,cynthia.li@crypto.com,"Li, Xiangjie",,Cynthia,1-Dec-2021,Product,China,CNY,9000,Month
+GH00399,bryan.li@crypto.com,"Li, Jun",,Bryan,1-Dec-2021,Tech,China,CNY,40000,Month
+GH00393,haoyang.li@crypto.com,"Li, Haoyang",,"Li, Haoyang",22-Nov-2021,Tech,China,CNY,20000,Month
+GH00394,cover.lv@crypto.com,"Lv, Xianjie",,Cover,22-Nov-2021,Cronos,China,CNY,43000,Month
+GH00395,andrew.chen@crypto.com,"Chen, Xingyi",,Andrew,22-Nov-2021,Tech,China,CNY,52000,Month
+GH00396,lianggui.yu@crypto.com,"Yu, Lianggui",,"Yu, Lianggui",22-Nov-2021,Tech,China,,,
+GH00392,wanlin.zhang@crypto.com,"Zhang, Wanlin",,"Zhang, Wanlin",21-Nov-2021,Trading,China,,,
+GH00389,tino.li@crypto.com,"Li, Qingyong",,Tino,9-Nov-2021,Product,China,CNY,18000,Month
+GH00390,richard.sun@crypto.com,"Sun, Xuetao",,Richard,9-Nov-2021,Blockchain,China,CNY,41000,Month
+GH00391,xiaofeng.ye@crypto.com,"Ye, Xiaofeng",,"Ye, Xiaofeng",9-Nov-2021,Product,China,CNY,16000,Month
+GH00387,aurrora.wu@crypto.com,"Wu, Min",,Aurrora,1-Nov-2021,Product,China,CNY,15000,Month
+GH00383,zhongnan.zhang@crypto.com,"Zhang, Zhongnan",,"Zhang, Zhongnan",25-Oct-2021,Tech,China,CNY,42000,Month
+GH00384,snow.li@crypto.com,"Li, Qiaomu",,Snow,25-Oct-2021,Cronos,China,CNY,38000,Month
+GH00385,teddy.deng@crypto.com	,"Deng, Tianyu",,Teddy,25-Oct-2021,Tech,China,CNY,26000,Month
+GH00386,allison.wu@crypto.com,"Wu, Xiaoqian",,Allison,25-Oct-2021,Blockchain,China,CNY,20000,Month
+GH00381,Adam.wu@crypto.com,Adam Wu,,Adam,20-Oct-2021,Tech,China,,,
+GH00378,ke.tang@crypto.com,Ke Tang,,Ke,20-Oct-2021,Product,China,,,
+GH00382,duke.wang@crypto.com,Duke Wang,,Duke,20-Oct-2021,Tech,China,,,
+GH00380,jason.song@crypto.com,Jason Song,,Jason,20-Oct-2021,Trading,China,,,
+GH00379,hyean.qin@crypto.com,"Qin, Haiyan",,Hyean,20-Oct-2021,Trading,China,CNY,24000,Month
+GH00346,michael.wang@crypto.com,Michael Wang,,Michael,12-Oct-2021,Tech,China,,,
+GH00376,kuby.lin@crypto.com,"Lin, Zhe",,Kuby,12-Oct-2021,Product,China,CNY,24000,Month
+GH00377,cloud.liang@crypto.com,"Liang, Yuzhe",,Cloud,12-Oct-2021,Tech,China,CNY,31000,Month
+GH00369,lucky.huang@crypto.com,"Huang, Wei",,Lucky,11-Oct-2021,Product,China,CNY,20000,Month
+GH00370,joan.zhang@crypto.com,"Zhang, Qionglan",,Joan,11-Oct-2021,Product,China,CNY,20000,Month
+GH00371,nick.xu@crypto.com,"Xu, Lan",,Nick,11-Oct-2021,Tech,China,CNY,35000,Month
+GH00372,eric.liu@crypto.com,"Liu, Chengang",,Eric,11-Oct-2021,Product,China,CNY,58000,Month
+GH00373,alex.liu@crypto.com,"Liu, Feng",,Alex,11-Oct-2021,Tech,China,CNY,32000,Month
+GH00374,sims.xu@crypto.com,"Xu, Xin",,Sims,11-Oct-2021,Tech,China,CNY,35000,Month
+GH00367,jiaxin.yi@crypto.com,"Yi, Jiaxin",,"Yi, Jiaxin",6-Oct-2021,Tech,China,CNY,27000,Month
+GH00363,hazel.liu@crypto.com,"Liu, Cong",,Hazel,29-Sep-2021,Tech,China,CNY,23000,Month
+GH00364,gatsby.zhong@crypto.com,"Zhong, Xiangshen",,Gatsby,29-Sep-2021,Product,China,CNY,33000,Month
+GH00358,jolly.wang@crypto.com,"Wang, Youhuai",,Jolly,28-Sep-2021,Tech,China,CNY,38000,Month
+GH00359,hakon.liang@crypto.com,"Liang, Hao",,Hakon,28-Sep-2021,Cronos,China,CNY,31000,Month
+GH00360,chance.zhou@crypto.com,"Zhou,Sanbao",,Chance,28-Sep-2021,Cronos,China,CNY,34000,Month
+GH00355,natalie.liang@crypto.com,Natalie Liang,,Natalie,27-Sep-2021,Tech,China,,,
+GH00356,huan.liu@crypto.com,Huan Liu,,Huan,27-Sep-2021,Tech,China,,,
+GH00344,bing.liu@crypto.com,Bing Liu,,Bing,27-Sep-2021,Trading,China,,,
+GH00348,bo.cai@crypto.com,Bo Cai,,Bo,27-Sep-2021,Tech,China,,,
+GH00345,mike.huang@crypto.com,"Huang, Jun",,Mike,27-Sep-2021,Tech,China,CNY,40000,Month
+GH00347,zhefu.peng@crypto.com,"Peng, Zhefu",,"Peng, Zhefu",27-Sep-2021,Tech,China,CNY,44400,Month
+GH00349,dean.chen@crypto.com,"Chen, Zhihuan",,Dean,27-Sep-2021,Tech,China,CNY,43000,Month
+GH00350,miya.xu@crypto.com,"Xu, Wanjun",,Miya,27-Sep-2021,Tech,China,CNY,24000,Month
+GH00351,north.huang@crypto.com,"Huang, Zile",,North,27-Sep-2021,Tech,China,CNY,25000,Month
+GH00352,xinyu.zhao@crypto.com,"Zhao, Xinyu",,"Zhao, Xinyu",27-Sep-2021,Blockchain,China,CNY,60000,Month
+GH00353,frasier.xu@crypto.com,"Xu, Fan",,Frasier,27-Sep-2021,Tech,China,CNY,25000,Month
+GH00354,benko.bin@crypto.com,"Bin, Zhi",,Benko,27-Sep-2021,Tech,China,CNY,30000,Month
+GH00357,huihai.shen@crypto.com,"Shen, Huihai",,"Shen, Huihai",27-Sep-2021,Trading,China,CNY,40500,Month
+GH00343,,"Jiang, Kuancheng",,Kerry,27-Sep-2021,,China,,,
+GH00338,vdalf.wu@crypto.com,vDalf Wu,,vDalf,23-Sep-2021,Tech,China,,,
+GH00336,wenzhou.yang@crypto.com,"Yang, Wenzhou",,"Yang, Wenzhou",23-Sep-2021,Tech,China,CNY,42000,Month
+GH00337,wenchang.chai@crypto.com,"Chai, Wenchang",,"Chai, Wenchang",23-Sep-2021,Tech,China,CNY,24000,Month
+GH00339,rainie.wang@crypto.com,"Wang, Yuhao",,Rainie,23-Sep-2021,Tech,China,CNY,40000,Month
+GH00340,kaidong.li@crypto.com,"Li, Kaidong",,"Li, Kaidong",23-Sep-2021,Tech,China,CNY,27500,Month
+GH00341,xiaolin.jiang@crypto.com,"Jiang, Xiaolin",,"Jiang, Xiaolin",23-Sep-2021,Tech,China,CNY,37000,Month
+GH00342,hao.zhang@crypto.com,"Zhang, Hao",,"Zhang, Hao",23-Sep-2021,Tech,China,CNY,27000,Month
+GH00334,jiangtao.wu@crypto.com,"Wu, Jiangtao",,"Wu, Jiangtao",17-Sep-2021,Tech,China,CNY,16000,Month
+GH00335,jeff.you@crypto.com,"You, Zhenfu",,Jeff,17-Sep-2021,Cronos,China,CNY,33000,Month
+GH00331,adu.du@crypto.com,"Du, Zhengchao",,Adu,16-Sep-2021,Blockchain,China,CNY,35000,Month
+GH00332,fabian.renoux@crypto.com,"Renoux, Fabian Charles Guy",,Fabian,16-Sep-2021,Cronos,China,CNY,45000,Month
+GH00333,qinhai.fan@crypto.com,"Fan, Qinhai",,"Fan, Qinhai",16-Sep-2021,Tech,China,CNY,45000,Month
+GH00329,effy.zhang@crypto.com,"Zhang, Zhe",,Effy,15-Sep-2021,Tech,China,CNY,30000,Month
+GH00330,panda.zhang@crypto.com,"Zhang, Chuanjia",,Panda,15-Sep-2021,Tech,China,CNY,40000,Month
+GH00326,swing.wang@crypto.com,"Wang, Jing",,Swing,13-Sep-2021,Tech,China,CNY,23000,Month
+GH00327,xixian.fan@crypto.com,"Fan, XiXian",,"Fan, XiXian",13-Sep-2021,Tech,China,CNY,68250,Month
+GH00328,dave.gu@crypto.com,"Gu, Yifeng",,Dave,13-Sep-2021,Tech,China,CNY,35000,Month
+GH00321,moo.mo@crypto.com,Moo Mo,,Moo,9-Sep-2021,Tech,China,,,
+GH00323,rong.huang@crypto.com,Rong Huang,,Rong,9-Sep-2021,Tech,China,,,
+GH00318,wayne.qian@crypto.com,"Qian , Weizhen",,Wayne,9-Sep-2021,Tech,China,CNY,28000,Month
+GH00319,yammy.yao@crypto.com,"Yao, Min",,Yammy,9-Sep-2021,Product,China,CNY,28000,Month
+GH00320,jamie.wang@crypto.com,"Wang, Mingjia",,Jamie,9-Sep-2021,Tech,China,CNY,33000,Month
+GH00322,selina.huang@crypto.com,"Huang, Yu",,Selina,9-Sep-2021,Product,China,CNY,27000,Month
+GH00324,junlin.pan@crypto.com,"Pan, Junlin",,Junlin,9-Sep-2021,Tech,China,CNY,40000,Month
+GH00305,john.wang@crypto.com,John Wang,,John,6-Sep-2021,Tech,China,,,
+GH00317,bruce.yu@crypto.com,Bruce Yu,,Bruce,6-Sep-2021,Tech,China,,,
+GH00309,payne.huang@crypto.com,Payne Huang,,Payne,6-Sep-2021,Product,China,,,
+GH00307,dennis.cai@crypto.com,Dennis Cai,,Dennis,6-Sep-2021,Product,China,,,
+GH00306,jun.gao@crypto.com,"Gao, Jun",,Jun,6-Sep-2021,Tech,China,CNY,25000,Month
+GH00308,bill.gao@crypto.com,"Gao, Yupeng",,Bill,6-Sep-2021,Security,China,CNY,25000,Month
+GH00310,eddie.xu@crypto.com,"Xu, Aite",,Eddie,6-Sep-2021,Tech,China,CNY,66000,Month
+GH00311,rayping.lei@crypto.com,"Lei , Yongping",,Rayping,6-Sep-2021,Tech,China,CNY,36500,Month
+GH00312,scott.ming@crypto.com,"Ming, Shisheng",,Scott,6-Sep-2021,Tech,China,CNY,38000,Month
+GH00313,hoohack.hu@crypto.com,"Hu, Huaquan",,Hoohack,6-Sep-2021,Tech,China,CNY,33500,Month
+GH00314,thomas.shen@crypto.com,"Shen, Zan",,Thomas,6-Sep-2021,Tech,China,CNY,58000,Month
+GH00315,yue.zhou@crypto.com,"Zhou, Yue",,"Zhou, Yue",6-Sep-2021,Product,China,CNY,20000,Month
+GH00316,lily.ren@crypto.com,"Ren, Aili",,Lily,6-Sep-2021,Cronos,China,CNY,28080,Month
+GH00300,yudan.yu@crypto.com,Yudan Yu,,Yudan,1-Sep-2021,Security,China,,,
+GH00297,tiny.hou@crypto.com,"Hou, Yanli",,Tiny,1-Sep-2021,Tech,China,CNY,30000,Month
+GH00298,richard.hao@crypto.com,"Hao, Xilu",,Richard,1-Sep-2021,Tech,China,CNY,32000,Month
+GH00299,vandison.li@crypto.com,"Li, Fengbiao",,Vandison,1-Sep-2021,Tech,China,CNY,30000,Month
+GH00301,ye.long@crypto.com,"Long, Ye",,"Long, Ye",1-Sep-2021,Tech,China,CNY,25000,Month
+GH00302,gary.lin@crypto.com,"Lin, Jiazhi",,Gary,1-Sep-2021,Tech,China,CNY,35000,Month
+GH00303,alejandro.mendez@crypto.com,"Mendez Ocampo, Alejandro",,Alejandro,1-Sep-2021,Security,China,CNY,45000,Month
+GH00304,connor.tang@crypto.com,"Tang, Dongchang",,Connor,1-Sep-2021,Tech,China,CNY,31000,Month
+GH00291,rick.wu@crypto.com,"Wu, Qian",,Rick,30-Aug-2021,Tech,China,CNY,28000,Month
+GH00292,norman.zhang@crypto.com,"Zhang, JingCheng",,Norman,30-Aug-2021,Tech,China,CNY,27500,Month
+GH00293,xianzhen.li@crypto.com,"Li, Xianzhen",,"Li, Xianzhen",30-Aug-2021,Cronos,China,CNY,30000,Month
+GH00294,jimmy.li@crypto.com,"Li, Zheng",,Jimmy,30-Aug-2021,Tech,China,CNY,31000,Month
+GH00295,huanran.yu@crypto.com,"Yu, Huanran",,"Yu, Huanran",30-Aug-2021,Tech,China,CNY,33000,Month
+GH00296,aaron.nan@crypto.com,"Nan, Yang",,Aaron,30-Aug-2021,Cronos,China,CNY,36000,Month
+GH00290,aisake.chen@crypto.com,Aisake Chen,,Aisake,25-Aug-2021,Tech,China,,,
+GH00289,owen.ou@crypto.com,"Ou, Qiliang",,Owen,25-Aug-2021,Trading,China,CNY,42500,Month
+GH00288,allen.li@crypto.com,"Li, Xiang",,Allen,24-Aug-2021,Tech,China,CNY,45000,Month
+GH00278,jacky.liu@crypto.com,Jacky Liu,,Jacky,23-Aug-2021,Tech,China,,,
+GH00283,jikang.zhong@crypto.com,Jikang Zhong,,Jikang,23-Aug-2021,Tech,China,,,
+GH00284,xiyao.shen@crypto.com,Xiyao Shen,,Xiyao,23-Aug-2021,Tech,China,,,
+GH00276,roby.he@crypto.com,"He, Longbo",,Roby,23-Aug-2021,Trading,China,CNY,31500,Month
+GH00277,rong.zheng@crypto.com,"Zheng, Guirong",,Rong,23-Aug-2021,Trading,China,CNY,30000,Month
+GH00279,ran.ding@crypto.com,"Ding, Ran",,Ran,23-Aug-2021,Tech,China,CNY,30000,Month
+GH00280,flynn.ji@crypto.com,"Ji, Fenglin",,Flynn,23-Aug-2021,Tech,China,CNY,23000,Month
+GH00281,peter.liang@crypto.com,"Liang, Yaozhi",,Peter,23-Aug-2021,Security,China,CNY,35000,Month
+GH00285,heng.wang@crypto.com,"Wang, Heng",,"Wang, Heng",23-Aug-2021,Tech,China,CNY,22000,Month
+GH00286,colin.chen@crypto.com,"Chen, Lingu",,Colin,23-Aug-2021,Tech,China,CNY,27000,Month
+GH00287,vern.zhang@crypto.com,"Zhang, Yousheng",,Vern,23-Aug-2021,Tech,China,CNY,38000,Month
+GH00282,,"Fu, Yinyin",,Sandy,23-Aug-2021,,China,,,
+GH00275,amarok.zhuo@crypto.com,Amarok Zhuo,,Amarok,17-Aug-2021,Tech,China,,,
+GH00274,leon.wang@crypto.com,"Wang, Zailiang",,Leon,17-Aug-2021,Tech,China,CNY,63000,Month
+GH00273,mike.chen@crypto.com,"Chen, Youliang",,Mike,16-Aug-2021,Product,China,CNY,23000,Month
+GH00272,,"Zhang, Yi",,Danny,16-Aug-2021,,China,,,
+GH00271,,"Luan, Tianhao",,Max,11-Aug-2021,,China,,,
+GH00266,edward.qy.wang@crypto.com,Edward QY Wang,,Edward QY,9-Aug-2021,Tech,China,,,
+GH00269,huihao.lin@crypto.com,Huihao Lin,,Huihao,9-Aug-2021,Trading,China,,,
+GH00263,kieren.yang@crypto.com,"Yang, Ping",,Kieren,9-Aug-2021,Trading,China,CNY,30500,Month
+GH00264,root.chen@crypto.com,"Chen, Gen",,Root,9-Aug-2021,Tech,China,CNY,23000,Month
+GH00265,ziming.zeng@crypto.com,"Zeng, Ziming",,"Zeng, Ziming",9-Aug-2021,Tech,China,CNY,30000,Month
+GH00267,joe.guo@crypto.com,"Guo, Wei",,Joe,9-Aug-2021,Cronos,China,CNY,33000,Month
+GH00268,xuan.shen@crypto.com,"Shen, Xuan",,"Shen, Xuan",9-Aug-2021,Tech,China,CNY,30000,Month
+GH00270,jun.lu@crypto.com,"Lu, Jun",,"Lu, Jun",9-Aug-2021,Trading,China,CNY,36500,Month
+GH00261,tongfei.gao@crypto.com,"Gao, Tongfei",,"Gao, Tongfei",4-Aug-2021,Cronos,China,CNY,33000,Month
+GH00262,ada.kong@crypto.com,"Kong, Xiaohong",,Ada,4-Aug-2021,Product,China,CNY,17000,Month
+GH00260,,"Sun, Jiayao",,"Sun, Jiayao",4-Aug-2021,,China,,,
+GH00254,kevin.li@crypto.com,Kevin Li,,Kevin,3-Aug-2021,Tech,China,,,
+GH00255,ebbe.huang@crypto.com,Ebbe Huang,,Ebbe,3-Aug-2021,Tech,China,,,
+GH00256,jason.zhou@crypto.com,"Zhou, Ziying",,Jason,3-Aug-2021,Tech,China,CNY,50000,Month
+GH00236,junsheng.hong@crypto.com,"Hong, Junsheng",,"Hong, Junsheng",2-Aug-2021,Tech,China,CNY,58000,Month
+GH00248,sarah.zhao@crypto.com,"Zhao, Rong",,Sarah,2-Aug-2021,Tech,China,CNY,40000,Month
+GH00249,steven.gu@crypto.com,"Gu, Peng",,Steven,2-Aug-2021,Tech,China,CNY,37000,Month
+GH00250,qiang.fu@crypto.com,"Fu, Qiang",,"Fu, Qiang",2-Aug-2021,Product,China,CNY,23000,Month
+GH00251,maimiao.xing@crypto.com,"Xing, Maimiao",,"Xing, Maimiao",2-Aug-2021,Product,China,CNY,15000,Month
+GH00252,theresa.li@crypto.com,"Li, Ji",,Theresa,2-Aug-2021,Product,China,CNY,24000,Month
+GH00253,jessie.jiao@crypto.com,"Jiao, Siwei",,Jessie,2-Aug-2021,Tech,China,CNY,30000,Month
+GH00246,demi.he@crypto.com,"He, Qingxia",,Demi,29-Jul-2021,Product,China,CNY,23000,Month
+GH00247,lexuan.peng@crypto.com,"Peng, Lexuan",,Lexuan,29-Jul-2021,Product,China,CNY,9500,Month
+GH00239,jie.wu@crypto.com,Jie Wu,,"Wu, Jie",26-Jul-2021,Trading,China,,,
+GH00232,neven.chen@crypto.com,"Chen, Xiaowei",,Neven,26-Jul-2021,Tech,China,CNY,55000,Month
+GH00233,qi.li@crypto.com,"Li, Qi",,"Li, Qi",26-Jul-2021,Tech,China,CNY,40000,Month
+GH00234,hahn.chen@crypto.com,"Chen, Sihan",,Hahn,26-Jul-2021,Tech,China,CNY,28000,Month
+GH00235,roy.huang@crypto.com,"Huang, Canrong",,Roy,26-Jul-2021,Tech,China,CNY,39000,Month
+GH00237,anthony.zhan@crypto.com,"Zhan, Junhui",,Anthony,26-Jul-2021,Security,China,CNY,42000,Month
+GH00238,peace.chen@crypto.com,"Chen, Heping",,Peace,26-Jul-2021,Tech,China,CNY,34000,Month
+GH00230,john.xiong@crypto.com,"Xiong, Kun",,John,22-Jul-2021,Security,China,CNY,32000,Month
+GH00229,hailey.yuan@crypto.com,Hailey Yuan,,Hailey,21-Jul-2021,Product,China,,,
+GH00227,smith.ma@crypto.com,"Ma, Xiang",,Smith,20-Jul-2021,Security,China,CNY,38000,Month
+GH00228,xiang.li@crypto.com,"Li, Xiang",,"Li, Xiang",20-Jul-2021,,China,,,
+GH00222,kyno.yang@crypto.com,"Yang, Kai",,Kyno,19-Jul-2021,Tech,China,CNY,35000,Month
+GH00223,jessie.hu@crypto.com,"Hu, Jingxi",,Jessie,19-Jul-2021,Tech,China,CNY,32000,Month
+GH00224,jianbin.wang@crypto.com,"Wang, Jianbin",,"Wang, Jianbin",19-Jul-2021,Tech,China,CNY,30000,Month
+GH00225,meng.peng@crypto.com,"Peng, Meng",,"Peng, Meng",19-Jul-2021,Tech,China,CNY,35000,Month
+GH00226,jams.fan@crypto.com,"Fan, Jianxing",,Jams,19-Jul-2021,Tech,China,CNY,32000,Month
+GH00221,james.deng@crypto.com,"Deng, Wei",,James,16-Jul-2021,Tech,China,CNY,82000,Month
+GH00215,henry.qiu@crypto.com,Henry Qiu,,Henry,12-Jul-2021,Security,China,,,
+GH00213,nan.wang@crypto.com,Nan Wang,,Nan,12-Jul-2021,Tech,China,,,
+GH00210,huosheng.cai@crypto.com,"Cai, Huosheng",,Huosheng,12-Jul-2021,Tech,China,CNY,40000,Month
+GH00211,louie.li@crypto.com,"Li, Shen",,Louie,12-Jul-2021,Tech,China,CNY,18000,Month
+GH00212,jiajia.fan@crypto.com,"Fan, Jiajia",,"Fan, Jiajia",12-Jul-2021,Trading,China,CNY,31000,Month
+GH00214,kevin.ding@crypto.com,"Ding, Wupeng",,Kevin,12-Jul-2021,Tech,China,CNY,29000,Month
+GH00216,joe.sy.zhou@crypto.com,"Zhou, Shaoyan",,Joe,12-Jul-2021,Blockchain,China,CNY,40000,Month
+GH00217,william.xie@crypto.com,"Xie, Weihua",,William,12-Jul-2021,Blockchain,China,CNY,38000,Month
+GH00218,zorn.huang@crypto.com,"Huang, Chaoren",,Zorn,12-Jul-2021,Tech,China,CNY,28000,Month
+GH00219,chace.ye@crypto.com,"Ye, Kuangxuan",,Chace,12-Jul-2021,Security,China,CNY,35000,Month
+GH00220,jarvi.wang@crypto.com,"Wang, Chongyu",,Jarvi,12-Jul-2021,Product,China,CNY,21000,Month
+GH00207,haibin.wu@crypto.com,Haibin Wu,,Haibin,9-Jul-2021,Tech,China,,,
+GH00209,alan.dai@crypto.com,Alan Dai,,Alan,9-Jul-2021,Tech,China,,,
+GH00205,kylo.yang@crypto.com,"Yang, Diao",,Kylo,9-Jul-2021,Tech,China,CNY,29000,Month
+GH00206,feiyang.du@crypto.com,"Du, Feiyang",,"Du, Feiyang",9-Jul-2021,Tech,China,CNY,60000,Month
+GH00208,nina.chen@crypto.com,"Chen, Hong",,Nina,9-Jul-2021,Tech,China,CNY,30000,Month
+GH00203,shan.ding@crypto.com,"Ding, Shan",,"Ding, Shan",8-Jul-2021,Talent Acquisition,China,CNY,10000,Month
+GH00204,yuan.fan@crypto.com,"Fan, Yuan",,"Fan, Yuan",8-Jul-2021,Tech,China,CNY,39000,Month
+GH00201,jess.chen@crypto.com,Jess Chen,,Jess,7-Jul-2021,Tech,China,,,
+GH00200,rylee.ruan@crypto.com,"Ruan, Shimin",,Rylee,7-Jul-2021,Tech,China,CNY,18000,Month
+GH00202,hai.li@crypto.com,"Li, Hai",,"Li, Hai",7-Jul-2021,Tech,China,CNY,40000,Month
+GH00199,jiazhi.zhou@crypto.com,Jiazhi Zhou,,Jiazhi,6-Jul-2021,Trading,China,,,
+GH00191,yuanchun.jiang@crypto.com,Yuanchun Jiang,,Yuanchun,5-Jul-2021,Trading,China,,,
+GH00114,sean.huang@crypto.com,"Huang, Chaoliang",,Sean,5-Jul-2021,Cronos,China,CNY,18000,Month
+GH00189,jemy.yan@crypto.com,"Yan, Jianming",,Jemy,5-Jul-2021,Tech,China,CNY,43000,Month
+GH00190,zhitao.luo@crypto.com,"Luo, Zhitao",,"Luo, Zhitao",5-Jul-2021,Tech,China,CNY,32000,Month
+GH00192,hevi.ye@crypto.com,"Ye, Haiyong",,Hevi,5-Jul-2021,Tech,China,CNY,33000,Month
+GH00193,xiantao.shi@crypto.com,"Shi, Xiantao",,"Shi, Xiantao",5-Jul-2021,Tech,China,CNY,31000,Month
+GH00194,lianghai.weng@crypto.com,"Weng, Lianghai",,"Weng, Lianghai",5-Jul-2021,Tech,China,CNY,37000,Month
+GH00196,siming.yuan@crypto.com,"Yuan,Siming",,"Yuan,Siming",5-Jul-2021,Tech,China,CNY,35000,Month
+GH00197,lizhe.chen@crypto.com,"Chen, Lizhe",,"Chen, Lizhe",5-Jul-2021,Tech,China,CNY,20000,Month
+GH00198,ming.chen@crypto.com,"Chen, Ming",,"Chen, Ming",5-Jul-2021,Trading,China,CNY,22500,Month
+GH00134,,"She, Jiayao",,Gary,5-Jul-2021,,China,,,
+GH00187,robben.luo@crypto.com,"Luo,Yong",,Robben,1-Jul-2021,Tech,China,CNY,38000,Month
+GH00188,finn.zhang@crypto.com,"Zhang,Yifei",,Finn,1-Jul-2021,Security,China,CNY,30175,Month
+GH00184,vicky.ren@crypto.com,Vicky Ren,,Vicky,28-Jun-2021,Finance,China,,,
+GH00177,guowei.ruan@crypto.com,"Ruan, Guowei",,"Ruan, Guowei",28-Jun-2021,Trading,China,CNY,40000,Month
+GH00178,jolin.wang@crypto.com,"Wang, Julin",,Jolin,28-Jun-2021,Tech,China,CNY,24000,Month
+GH00179,ricky.su@crypto.com,"Su, Rongji",,Ricky,28-Jun-2021,Tech,China,CNY,67000,Month
+GH00180,ben.xu@crypto.com,"Xu, Zhongbin",,Ben,28-Jun-2021,Tech,China,CNY,37000,Month
+GH00181,star.huang@crypto.com,"Huang, Xingxing",,Star,28-Jun-2021,Tech,China,CNY,32000,Month
+GH00182,esk.li@crypto.com,"Li, Jiayi",,Esk,28-Jun-2021,Tech,China,CNY,17000,Month
+GH00183,samson.hu@crypto.com,"Hu, Xiaohui",,Samson,28-Jun-2021,Blockchain,China,CNY,66000,Month
+GH00175,johnsin.li@crypto.com,Johnsin Li,,Johnsin,25-Jun-2021,Tech,China,,,
+GH00176,xiaodou.wu@crypto.com,"Wu, Xiaodou",,"Wu, Xiaodou",25-Jun-2021,Trading,China,CNY,37000,Month
+GH00171,christine.li@crypto.com,"Li, Haixia",,Christine,22-Jun-2021,Human Resources,China,CNY,29000,Month
+GH00172,lixiang.mu@crypto.com,"Mu, Lixiang",,"Mu, Lixiang",22-Jun-2021,Tech,China,CNY,37000,Month
+GH00173,tomy.tang@crypto.com,"Tang, Min",,Tomy,22-Jun-2021,Cronos,China,CNY,30000,Month
+GH00167,paul.cheng@crypto.com,"Cheng, Xiang",,Paul,21-Jun-2021,Tech,China,CNY,61000,Month
+GH00169,yulong.wu@crypto.com,"Wu, Yulong",,"Wu, Yulong",21-Jun-2021,Trading,China,CNY,49000,Month
+GH00170,henry.sun@crypto.com,"Sun, Yimeng",,Henry,21-Jun-2021,Tech,China,CNY,30000,Month
+GH00168,yong.bao@crypto.com,"Bao, Yong",,"Bao, Yong",18-Jun-2021,Tech,China,CNY,40000,Month
+GH00163,jim.liu@crypto.com,Jim Liu,,Jim,15-Jun-2021,Tech,China,,,
+GH00165,shengkang.chen@crypto.com,Shengkang Chen,,Shengkang,15-Jun-2021,Tech,China,,,
+GH00164,anna.chen@crypto.com,Anna Chen,,Anna,15-Jun-2021,Talent Acquisition,China,,,
+GH00160,xinyu.wang@crypto.com,Xinyu Wang,,Xinyu,15-Jun-2021,Product,China,,,
+GH00161,zhiming.zhong@crypto.com,"Zhong, Zhiming",,"Zhong, Zhiming",15-Jun-2021,Tech,China,CNY,29000,Month
+GH00162,octo.xie@crypto.com,"Xie, Zhengyi",,Octo,15-Jun-2021,Trading,China,CNY,44000,Month
+GH00166,hao.xu@crypto.com,"Xu, Hao",,"Xu, Hao",15-Jun-2021,Tech,China,CNY,55000,Month
+GH00158,ming.wang@crypto.com,"Wang, Ming",,"Wang, Ming",10-Jun-2021,Product,China,CNY,14500,Month
+GH00159,shawn.ma@crypto.com,"Ma, Shaoxuan",,Shawn,10-Jun-2021,Product,China,CNY,74750,Month
+GH00154,joey.zhang@crypto.com,Joey Zhang,,Joey,8-Jun-2021,Tech,China,,,
+GH00155,weidong.gao@crypto.com,Weidong Gao,,Weidong Gao,8-Jun-2021,Tech,China,,,
+GH00149,jam.chen@crypto.com,"Chen, Jiaming",,Jam,8-Jun-2021,Tech,China,CNY,28000,Month
+GH00150,charlie.liu@crypto.com,"Liu, Shengnan",,Charlie,8-Jun-2021,Tech,China,CNY,27000,Month
+GH00151,brian.liu@crypto.com,"Liu, Shiyu",,Brian,8-Jun-2021,Tech,China,CNY,32000,Month
+GH00152,tian.tian@crypto.com,"Tian, Tian",,"Tian, Tian",8-Jun-2021,Tech,China,CNY,28000,Month
+GH00153,cen.tan@crypto.com,"Tan, Cen",,"Tan, Cen",8-Jun-2021,Tech,China,CNY,42000,Month
+GH00156,dav.chen@crypto.com,"Chen, Weiwei",,Dav,8-Jun-2021,Tech,China,CNY,30500,Month
+GH00146,model.liu@crypto.com,"Liu, Moude",,Model,7-Jun-2021,Tech,China,CNY,25000,Month
+GH00147,huang.xie@crypto.com,"Xie, Huang",,"Xie, Huang",7-Jun-2021,Tech,China,CNY,34000,Month
+GH00148,shipeng.li@crypto.com,"Li, Shipeng",,"Li, Shipeng",7-Jun-2021,Tech,China,CNY,33000,Month
+GH00144,chaofeng.li@crypto.com,Chaofeng Li,,Chaofeng Li,1-Jun-2021,Tech,China,,,
+GH00139,maple.qian@crypto.com,"Qiao, Feng",,Maple,1-Jun-2021,Tech,China,CNY,20000,Month
+GH00140,jianwei.fang@crypto.com,"Fang, Jianwei",,"Fang, Jianwei",1-Jun-2021,Tech,China,CNY,35000,Month
+GH00141,jaco.gu@crypto.com,"Gu, Yong",,Jaco,1-Jun-2021,Tech,China,CNY,62000,Month
+GH00142,summer.zou@crypto.com,"Zou, Wanjun",,Summer,1-Jun-2021,Human Resources,China,CNY,32000,Month
+GH00143,Leo.guo@crypto.com,"Guo, Liang",,Leo,1-Jun-2021,Tech,China,CNY,44000,Month
+GH00133,william.xu@crypto.com,William Xu,,William,26-May-2021,Tech,China,,,
+GH00136,mia.zhou@crypto.com,"Zhou, Mi",,Mia,26-May-2021,Security,China,CNY,24000,Month
+GH00137,Tim.Lin@crypto.com,"Lin, Shuang",,Tim,26-May-2021,Cronos,China,CNY,36500,Month
+GH00135,zhangting.liao@crypto.com,"Liao, Zhangting",,"Liao, Zhangting",24-May-2021,Admin,China,CNY,10800,Month
+GH00132,bobo.luo@crypto.com,"Luo, Bobo",,Bobo,20-May-2021,Tech,China,CNY,35000,Month
+GH00131,yuyuan.yuan@crypto.com,"Yuan, Yuyuan",,Yuyuan,18-May-2021,Tech,China,CNY,30000,Month
+GH00129,crystal.liu@crypto.com,Crystal Liu,,Crystal,12-May-2021,Security,China,,,
+GH00128,evan.zhang@crypto.com,Evan Zhang,,Evan,10-May-2021,Security,China,,,
+GH00127,sunny.he@crypto.com,"He, Qing",,Sunny,10-May-2021,Finance,China,CNY,9500,Month
+GH00126,sylvia.zhang@crypto.com,"Zhang, Weiying",,Sylvia,6-May-2021,Product,China,CNY,29150,Month
+GH00122,elva.su@crypto.com,Elva Su,,Elva,4-May-2021,Talent Acquisition,China,,,
+GH00120,leen.li@crypto.com,"Li, Yanping",,Leen,4-May-2021,Product,China,CNY,21000,Month
+GH00121,sage.hsu@crypto.com,"Hsu, Shiyu",,Sage,4-May-2021,Product,China,CNY,24200,Month
+GH00123,emma.chen@crypto.com,"Chen, Yuhan",,Emma,4-May-2021,Tech,China,CNY,26000,Month
+GH00124,wenkai.yuan@crypto.com,"Yuan, Wenkai",,Wenkai,4-May-2021,Tech,China,CNY,29000,Month
+GH00125,,"Yu, Yuetong  Jiayao ",,Jordan,4-May-2021,,China,,,
+GH00117,evelyn.wang@crypto.com,"Wang, Ying",,Evelyn,28-Apr-2021,Product,China,CNY,29700,Month
+GH00116,frank.kuang@crypto.com,"Kuang, Shunhui",,Frank,26-Apr-2021,Tech,China,CNY,41000,Month
+GH00118,,"Yan,  Lijuan",,Shine,26-Apr-2021,,China,,,
+GH00113,leman.lai@crypto.com,Leman Lai,,Leman,16-Apr-2021,Tech,China,,,
+GH00112,,"Tao, Ran",,Taran,13-Apr-2021,,China,,,
+GH00110,jingjin.chen@crypto.com,"Chen, Jingjin",,"Chen, Jingjin",12-Apr-2021,Product,China,CNY,15400,Month
+GH00111,joe.cao@crypto.com,"Cao, Yuhua",,Joe,12-Apr-2021,Security,China,CNY,31000,Month
+GH00107,kenny.wan@crypto.com,"Wan, Kun",,Kenny,9-Apr-2021,Product,China,CNY,28600,Month
+GH00108,sophia.xi@crypto.com,"Xi, Yujuan",,Sophia,9-Apr-2021,Product,China,CNY,28800,Month
+GH00109,lunzhen.wang@crypto.com,"Wang, Lunzhen",,"Wang, Lunzhen",9-Apr-2021,Tech,China,CNY,28000,Month
+GH00105,ben.he@crypto.com,"He, Zhonghang",,Ben,7-Apr-2021,Product,China,CNY,32500,Month
+GH00106,harry.gao@crypto.com,"Gao, Hua",,Harry,6-Apr-2021,Tech,China,CNY,33000,Month
+GH00103,max.bai@crypto.com,"Bai, Kejian",,Max,1-Apr-2021,Product,China,CNY,33880,Month
+GH00104,vincent.cai@crypto.com,"Cai, Jiwen",,Vincent,1-Apr-2021,Tech,China,CNY,110000,Month
+GH00100,yoyo.wu@crypto.com,"Wu, Peiying",,Yoyo,29-Mar-2021,Tech,China,CNY,40000,Month
+GH00101,leo.lin@crypto.com,"Lin, Junfeng",,Leo,29-Mar-2021,Tech,China,CNY,45000,Month
+GH00102,ruhui.wang@crypto.com,"Wang, Ruhui",,"Wang, Ruhui",29-Mar-2021,Tech,China,CNY,30000,Month
+GH00099,mike.yang@crypto.com,"Yang, Miao",,Mike,26-Mar-2021,Tech,China,CNY,42000,Month
+GH00094,richard.li@crypto.com,"Li, Chixin",,Richard,22-Mar-2021,Tech,China,CNY,37000,Month
+GH00095,fuxin.hao@crypto.com,"Hao, Fuxin",,"Hao, Fuxin",22-Mar-2021,Tech,China,CNY,35000,Month
+GH00096,emmet.xue@crypto.com,"Xue, Yufeng",,Emmet,22-Mar-2021,Security,China,CNY,52800,Month
+GH00097,,"Chen, Weijie",,Jamie,22-Mar-2021,,China,,,
+GH00093,kangchuan.liu@crypto.com,Kangchuan Liu,,Kangchuan Liu,16-Mar-2021,Tech,China,,,
+GH00092,logan.luo@crypto.com,"Luo, Xiao",,Logan,16-Mar-2021,Cronos,China,CNY,54000,Month
+GH00090,xin.mao@crypto.com,Xin Mao,,Xin Mao,10-Mar-2021,Trading,China,,,
+GH00089,fony.ding@crypto.com,"Ding, Shengyou",,Fony,8-Mar-2021,Tech,China,CNY,20000,Month
+GH00087,shutang.yu@crypto.com,"Yu, Shutang",,"Yu, Shutang",1-Mar-2021,Tech,China,CNY,40000,Month
+GH00082,eva.zhang@crypto.com,"Zhang, QianQian",,Eva,22-Feb-2021,Product,China,CNY,26400,Month
+GH00083,jingjing.li@crypto.com,"Li, JingJing",,"Li, JingJing",22-Feb-2021,Product,China,CNY,38000,Month
+GH00085,johnson.sun@crypto.com,"Sun, Jun",,Johnson,22-Feb-2021,Tech,China,CNY,34000,Month
+GH00084,,"Feng, ZhuonNeng",,Arvin,22-Feb-2021,,China,,,
+GH00080,xiaomei.wang@crypto.com,XiaoMei Wang,,XiaoMei Wang,4-Jan-2021,Tech,China,,,
+GH00081,kern.yan@crypto.com,"Yan, ZhiQiang",,Kern,4-Jan-2021,Tech,China,CNY,58500,Month
+GH00076,,"Rao, PinPin",,Ivy,14-Dec-2020,,China,,,
+GH00079,weizhi.xie@crypto.com,"Xie, WeiZhi",,Mike,7-Dec-2020,Tech,China,CNY,40000,Month
+GH00077,donald.ding@crypto.com,"Ding, DianCheng",,Donald,1-Dec-2020,Tech,China,CNY,36000,Month
+GH00078,iris.liao@crypto.com,"Liao, LiCong",,Iris,1-Dec-2020,Product,China,CNY,23100,Month
+GH00075,jay.zeng@crypto.com,"Zeng, HuaJie",,Jay,30-Nov-2020,Tech,China,CNY,78000,Month
+GH00071,andy.bin@crypto.com,"Bin, Jing",,Andy,23-Nov-2020,Tech,China,CNY,30000,Month
+GH00072,vicky.wang@crypto.com,"Wang, XinYi",,Vicky,23-Nov-2020,Product,China,CNY,28600,Month
+GH00070,ivan.huang@crypto.com,"Huang, JiangWen",,Ivan,17-Nov-2020,Tech,China,CNY,40000,Month
+GH00074,joshua.zhao@crypto.com,"Zhao, Chen",,Joshua,16-Nov-2020,Tech,China,CNY,37400,Month
+GH00069,jocelyn.wang@crypto.com,"Wang, Jin",,Jocelyn,12-Nov-2020,Tech,China,CNY,24000,Month
+GH00068,jack.liu@crypto.com,"Liu, YingCong",,Jack,3-Nov-2020,Tech,China,CNY,47000,Month
+GH00066,yuzhao.wu@crypto.com,"Wu, YuZhao",,"Wu, YuZhao",2-Nov-2020,Tech,China,CNY,62000,Month
+GH00067,donghao.liu@crypto.com,"Liu, DongHao",,"Liu, DongHao",2-Nov-2020,Tech,China,CNY,32000,Month
+GH00065,wayne.liu@crypto.com,"Liu, ZhiHong",,Wayne,28-Oct-2020,Tech,China,CNY,32000,Month
+GH00062,horus.wu@crypto.com,"Wu, Wei",,Horus,26-Oct-2020,Tech,China,CNY,41000,Month
+GH00063,fan.zhang@crypto.com,"Zhang, Fan",,Fan,26-Oct-2020,Tech,China,CNY,57000,Month
+GH00064,bonnie.xia@crypto.com,"Xia, RuiYu",,Bonnie,26-Oct-2020,Talent Acquisition,China,CNY,14000,Month
+GH00061,jason.lu@crypto.com,"Lu, JingSheng",,Jason,19-Oct-2020,Tech,China,CNY,95000,Month
+GH00060,jeff.zhang@crypto.com,Jeff Zhang,,Jeff,12-Oct-2020,Tech,China,,,
+GH00058,walter.meng@crypto.com,"Meng, YuChen",,Walter,28-Sep-2020,Blockchain,China,CNY,39000,Month
+GH00059,frost.ming@crypto.com,"Ming, Xi",,Frost,28-Sep-2020,Trading,China,CNY,50000,Month
+GH00054,miracle.su@crypto.com,"Su, ChuangJi",,Miracle,17-Sep-2020,Tech,China,CNY,40000,Month
+GH00057,,"Jose Victor, Feijo De Araujo",,Victor,15-Sep-2020,,China,,,
+GH00053,lucas.wang@crypto.com,"Wang, LuCai",,Lucas,14-Sep-2020,Trading,China,CNY,45000,Month
+GH00055,shlian.lian@crypto.com,"Lian, ShaoHua",,Shlian,14-Sep-2020,Trading,China,CNY,70000,Month
+GH00051,dennis.zhang@crypto.com,"Zhang, Wen",,Dennis,2-Sep-2020,Tech,China,CNY,30000,Month
+GH00052,kevin.wu@crypto.com,"Wu, HongZhong",,Kevin,17-Aug-2020,Tech,China,CNY,104000,Month
+GH00049,jeffery.jiang@crypto.com,"Jiang, ZhengFan",,Jeffery,10-Aug-2020,Tech,China,CNY,25000,Month
+GH00050,chao.liu@crypto.com,"Liu, Chao",,"Liu, Chao",6-Aug-2020,Trading,China,CNY,48000,Month
+GH00048,feo.chen@crypto.com,"Chen, Cheng",,Feo,30-Jul-2020,Security,China,CNY,44000,Month
+GH00046,,"She , KangNi",,Eunice,27-Jul-2020,,China,,,
+GH00045,kuman.deng@crypto.com,"Deng , YunPeng",,Kuman,15-Jul-2020,Tech,China,CNY,48000,Month
+GH00043,derrick.zhang@crypto.com,"Zhang, MengLin",,Derrick,13-Jul-2020,Tech,China,CNY,50000,Month
+GH00044,,"Bai, Xue",,Snow,6-Jul-2020,,China,,,
+GH00040,,"Zhao, MengZhe",,Alexander,5-Jun-2020,,China,,,
+GH00039,claire.qiao@crypto.com,"Qiao , Lu",,Claire,1-Jun-2020,Product,China,CNY,26400,Month
+GH00056,,"Yang, DongLin",,Kevin,25-May-2020,,China,,,
+GH00036,spencer.chen@crypto.com,"Chen , YunMei",,Spencer,4-May-2020,Security,China,CNY,30000,Month
+GH00034,luke.wang@crypto.com,"Wang, ShuKun",,Luke,20-Apr-2020,Blockchain,China,CNY,49200,Month
+GH00035,raymond.chen@crypto.com,"Chen , Rui",,Raymond,20-Apr-2020,Security,China,CNY,28000,Month
+GH00033,,"Liu, Qian",,Kelly,20-Apr-2020,,China,,,
+GH00029,edward.wang@crypto.com,"Wang, YanGui",,Edward,13-Apr-2020,Security,China,CNY,30000,Month
+GH00030,xubo.yu@crypto.com,"Yu, XuBo",,Xubo,13-Apr-2020,Institutional Sales,China,CNY,39060,Month
+GH00032,edwina.zhao@crypto.com,"Zhao, QianYu",,Edwina,13-Apr-2020,Product,China,CNY,25190,Month
+GH00031,,"Yan, RongJing",,Olivia,13-Apr-2020,,China,,,
+GH00026,hedy.zhang@crypto.com,"Zhang, HongYan",,Hedy,30-Mar-2020,Product,China,CNY,25000,Month
+GH00025,jasmine.yang@crypto.com,"Yang, ZeMin",,Jasmine,9-Mar-2020,Product,China,CNY,27632,Month
+GH00023,vincent.li@crypto.com,"Li, WenJun",,Vincent,2-Mar-2020,Security,China,CNY,18000,Month
+GH00020,jing.chen@crypto.com,"Chen, Jing",,"Chen, Jing",24-Feb-2020,Tech,China,CNY,63000,Month
+GH00021,charlie.du@crypto.com,"Du, JiaLi",,Charlie,24-Feb-2020,Cronos,China,CNY,34500,Month
+GH00019,atul@crypto.com,"Rupnar, Atul Deepak",,Atul Deepak,12-Feb-2020,Cronos,China,CNY,33000,Month
+GH00018,sunny.peng@crypto.com,"Peng, JiaWei",,Sunny,8-Jan-2020,Tech,China,CNY,54000,Month
+GH00015,nanqiang.lin@crypto.com,"Lin, NanQiang",,Nanqiang,6-Jan-2020,Cronos,China,CNY,27000,Month
+GH00016,jianyong.zhou@crypto.com,"Zhou, JianYong",,Jianyong,6-Jan-2020,Tech,China,CNY,35000,Month
+GH00014,domingo@crypto.com,"Zhu, ZheMing",,Domingo,2-Jan-2020,Product,China,CNY,35000,Month
+GH00013,jing@crypto.com,"Zhang, Jing",,"Zhang, Jing",16-Dec-2019,Tech,China,CNY,32000,Month
+GH00012,,"Tig, Muzaffer Kaan",,Kaan Tig,5-Dec-2019,,China,,,
+GH00010,huang@crypto.com,"Huang, Yi",,"Huang, Yi",6-Nov-2019,Blockchain,China,CNY,120000,Month
+GH00006,daisy@crypto.com,"Luo, YuFei",,Daisy,1-Nov-2019,Finance,China,CNY,35000,Month
+GH00008,charles@crypto.com,Charles LI,,Charles,31-Oct-2019,Trading,China,,,
+GH00007,,"Chen, Cheng",,Lucky,31-Oct-2019,,China,,,
+GH00002,linfeng@crypto.com,Linfeng YUAN,,Linfeng,14-Oct-2019,Blockchain,China,,,
+GH00037,migo@crypto.com,"Li, Min",,Migo,16-Sep-2019,Human Resources,China,CNY,28500,Month
+GH00022,frank@crypto.com,"Huang, RunPing",,Frank,4-Sep-2019,Trading,China,CNY,39000,Month
+GH00024,weilong@crypto.com,"Li, WeiLong",,Eric,4-Sep-2019,Tech,China,CNY,35000,Month
+GH00027,wenwei@crypto.com,"Hunag, WenWei",,Wenwei,4-Sep-2019,Tech,China,CNY,35000,Month
+GH00028,angelina.lin@crypto.com,"Lin, JiaYing",,Angelina,4-Sep-2019,Tech,China,CNY,18000,Month
+GH00042,,"He, ShaoFeng",,John,28-Aug-2019,,China,,,
+GH00009,linmin@crypto.com,"Li, LinMin",,Linmin,26-Aug-2019,Tech,China,CNY,38000,Month
+GH00011,dejin@crypto.com,"Lu, DeJin",,Dejin,26-Aug-2019,Tech,China,CNY,29000,Month
+GH00005,ken@crypto.com,"Yang, XinGen",,Ken,19-Aug-2019,Tech,China,CNY,27000,Month
+GH00041,,"Huang, Xue",,Shuyan,19-Aug-2019,,China,,,
+GH00004,jason.li@crypto.com,"Li, TingNiu",,Jason,29-Jul-2019,Tech,China,CNY,37000,Month
+GH00003,Joyce@crypto.com,"Huang, XiaoYun",,Joyce,22-Jul-2019,Security,China,CNY,46000,Month
+GH00001,scarlett@crypto.com,"Zeng, XiaoFeng",,Scarlett,27-Jun-2019,Talent Acquisition,China,CNY,34000,Month

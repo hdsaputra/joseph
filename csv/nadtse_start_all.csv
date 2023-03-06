@@ -1,0 +1,94 @@
+empnum,workemail,lastname,firstname,preferredname,hiredate,team,location,payratecurrency,payrate,payschedule
+NAD001,Patrick.Silverio@nadex.com,Silverio,Patrick,Patrick,15-Mar-04,Nadex,United States,USD,150000,Year
+NAD002,Dan.Cook@nadex.com,Cook,Daniel,Daniel,1-Jun-11,Nadex,United States,USD,250000,Year
+NAD003,David.O'Gorman@nadex.com,O'Gorman,David,David,16-Sep-11,Nadex,United States,USD,105000,Year
+NAD004,Marcus.Dees@nadex.com,Dees,Marcus,Marcus,1-Apr-14,Nadex,United States,USD,220000,Year
+NAD005,LynnAnn.Rossman@nadex.com,Rossman,LynnAnn,LynnAnn,18-May-15,Nadex,United States,USD,95000,Year
+NAD006,Nelson.Diaz@nadex.com,Diaz,Nelson,Nelson,14-Apr-16,Nadex,United States,USD,110000,Year
+NAD007,andy.snyder@nadex.com,Snyder,Andrew,Andrew,20-Mar-17,Nadex,United States,USD,270000,Year
+NAD008,shannon.schwieger@nadex.com,Schwieger,Shannon,Shannon,26-Mar-18,Nadex,United States,USD,150000,Year
+NAD009,Scott.Debevec@nadex.com,Debevec,Scott,Scott,10-Aug-18,Nadex,United States,USD,150000,Year
+NAD010,danny.baci@nadex.com,Baci,Danny,Danny,4-Dec-18,Nadex,United States,USD,125000,Year
+NAD011,Travis.McGhee@nadex.com,McGhee,Travis,Travis,1-Jan-19,Nadex,United States,USD,300000,Year
+NAD012,Kevin.Dan@nadex.com,Dan,Kevin,Kevin,14-Oct-19,Nadex,United States,USD,250000,Year
+NAD013,Matthew.Schmookler@nadex.com,Schmookler,Matthew,Matthew,18-Nov-19,Nadex,United States,USD,100000,Year
+NAD014,Edward.Chen@nadex.com,Chen,Edward,Edward,10-Aug-20,Nadex,United States,USD,80000,Year
+NAD015,,Ahmad,Sooha,Sooha,1-Mar-21,Nadex,United States,,,
+NAD016,,Kasnesi,Sofia,Sofia,1-Mar-21,Nadex,United States,,,
+NAD017,,Lively,Alexandra,Alexandra,1-Mar-21,Nadex,United States,,,
+NAD018,,McAden,Adam,Adam,1-Mar-21,Nadex,United States,,,
+NAD019,,Rich,Todd,Todd,1-Mar-21,Nadex,United States,,,
+NAD020,,Nava,Alejandro,Alejandro,1-Mar-21,Nadex,United States,,,
+NAD021,,Shah,eelam,eelam,1-Mar-21,Nadex,United States,,,
+NAD022,,Ager,Chris,Chris,1-Mar-21,Nadex,United States,,,
+NAD023,,Kodatt,Kris,Kris,1-Mar-21,Nadex,United States,,,
+NAD024,,Bracken,Ryan,Ryan,1-Mar-21,Nadex,United States,,,
+NAD025,Jose.SosaCoello@nadex.com,Sosa Coello,Jose Mauricio,Jose Mauricio,20-Sep-21,Nadex,United States,USD,80000,Year
+NAD026,ErikaJean.Rahden@nadex.com,Rahden,Erika Jean,Erika Jean,5-Jan-22,Nadex,United States,USD,85000,Year
+FF408982N,Steve.Goodsell@crypto.com,Goodshell,Steve,Steve,1-Mar-22,Nadex,UK,GBP,210000,Year
+FF485898N,sophie.johnston@crypto.com,JOhnson,Sophie,Sophie,1-Mar-22,Nadex,UK,GBP,160000,Year
+NAD029,paula.riehle@nadex.com,Riehle,Paula,Paula,9-May-22,Nadex,United States,USD,125000,Year
+NAD030,Jim.Johnston@nadex.com,Johnson,James,James,16-May-22,Nadex,United States,USD,187000,Year
+NAD031,,Fernandez,Benjamin,Benjamin,17-Oct-22,Nadex,United States,,,
+NAD032,andrew.madsen@crypto.com,Madsen,Andrew,Andrew,9-Jan-23,Nadex,United States,,,
+5080,david.klotz@crypto.com,Klotz,David,Dave,18-Apr-22,Nadex,United States,,,
+TSE001,donald.roberts@thesmallexchange.com,Roberts,Donald,Donald,2-Oct-17,TSE,United States,USD,300000,Year
+TSE002,john.hever@thesmallexchange.com,Hever,John,John,11-Dec-17,TSE,United States,USD,190000,Year
+TSE003,mkantowski@thesmallexchange.com,Kantowski,Michael,Michael,30-Apr-18,TSE,United States,USD,195000,Year
+TSE004,natalie.oblazny@thesmallexchange.com,Oblazny,Natalie,Natalie,31-Aug-18,TSE,United States,USD,160000,Year
+TSE005,agonzalez@thesmallexchange.com,Gonzalez,Alex,Alex,1-May-19,TSE,United States,USD,165000,Year
+TSE006,peter.santori@thesmallexchange.com,Santori,Peter,Peter,30-Dec-19,TSE,United States,USD,215000,Year
+TSE007,,Gough,Michael,Michael,1-Mar-21,TSE,United States,,,
+TSE008,,Kaberna,Frank,Frank,1-Mar-21,TSE,United States,,,
+TSE009,,Tornatore,John,John,1-Mar-21,TSE,United States,,,
+TSE010,,Levac,Alyssa,Alyssa,1-Mar-21,TSE,United States,,,
+TSE011,,Pinkawa,Margaret,Margaret,1-Mar-21,TSE,United States,,,
+TSE012,,Wooding,Charles,Charles,1-Mar-21,TSE,United States,,,
+TSE013,,Gonet,Patrick,Patrick,1-Mar-21,TSE,United States,,,
+TSE014,,Guinn,Andrew,Andrew,1-Mar-21,TSE,United States,,,
+TSE015,matt.nicolay@smallexchange.com,Nicolay,Matthew,Matthew,14-Jun-21,TSE,United States,USD,145000,Year
+TSE016,wei@thesmallexchange.com,Mei,Wei,Wei,1-Mar-22,TSE,United States,USD,120000,Year
+TSE017,ben.wilson@thesmallexchange.com,Wilson,Benjamin,Benjamin,1-Mar-22,TSE,United States,USD,95000,Year
+TSE018,james.dore@thesmallexchange.com,Dore,James,James,12-Apr-22,TSE,United States,USD,110000,Year
+FF448871N,Alex.VazquezIglesias@nadex.com,,,,5-Jan-23,Nadex,UK,GBP,103840,Year
+FF406889N,alex.hyde@nadex.com,,,,5-Jan-23,Nadex,UK,GBP,165564,Year
+FF457571N,david.gibbs@nadex.com,,,,5-Jan-23,Nadex,UK,GBP,149040,Year
+FF410509N,jack.beale@nadex.com,,,,5-Jan-23,Nadex,UK,GBP,56000,Year
+FF421666N,lee.walker@nadex.com,,,,5-Jan-23,Nadex,UK,GBP,110440,Year
+FF420956N,liam.carton@nadex.com,,,,5-Jan-23,Nadex,UK,GBP,91960,Year
+FF465964N,martin.birch@nadex.com,,,,5-Jan-23,Nadex,UK,GBP,93280,Year
+FF457887N,ravish.kumar@nadex.com,,,,5-Jan-23,Nadex,UK,GBP,82500,Year
+FF421033N,thomas.middlehurst@nadex.com,,,,5-Jan-23,Nadex,UK,GBP,78100,Year
+FF472979N,abhishek.kapoor@nadex.com,,,,5-Jan-23,Nadex,India,INR,1270000,Year
+FF440606N,ajay.aradhya@nadex.com,,,,5-Jan-23,Nadex,India,INR,1123190,Year
+FF427950N,ajit.kumar@nadex.com,,,,5-Jan-23,Nadex,India,INR,4325163,Year
+FF433906N,alex.myladoor@nadex.com,,,,5-Jan-23,Nadex,India,INR,623224,Year
+FF451854N,Amit.Richhariya@nadex.com,,,,5-Jan-23,Nadex,India,INR,3664680,Year
+FF487165N,anil.jangra@nadex.com,,,,5-Jan-23,Nadex,India,INR,2997600,Year
+FF406859N,anish.singh@nadex.com,,,,5-Jan-23,Nadex,India,INR,2997600,Year
+FF410646N,brunda.chokkareddy@nadex.com,,,,5-Jan-23,Nadex,India,INR,2069574,Year
+FF482441N,devaraja.m@nadex.com,,,,5-Jan-23,Nadex,India,INR,1457640,Year
+FF489276N,dhaani.banwasi@nadex.com,,,,5-Jan-23,Nadex,India,INR,590722,Year
+FF469238N,ezhilarasan.arumugam@nadex.com,,,,1-Feb-23,Nadex,India,INR,2921502,Year
+FF495929N,lakshmi.nagar@nadex.com,,,,5-Jan-23,Nadex,India,INR,1913422,Year
+FF412076N,manesh.kp@nadex.com,,,,5-Jan-23,Nadex,India,INR,4751250,Year
+FF409674N,manjunath.magajikondi@nadex.com,,,,5-Jan-23,Nadex,India,INR,1111076,Year
+FF417800N,Pallavi.SasidharanNair@nadex.com,,,,5-Jan-23,Nadex,India,INR,3400000,Year
+FF420423N,pragathi.kamathp@nadex.com,,,,5-Jan-23,Nadex,India,INR,1857600,Year
+FF499830N,rahul.kumar@crypto.com,,,,1-Feb-23,Nadex,India,INR,1634252,Year
+FF470314N,rajat.toppo@nadex.com,,,,5-Jan-23,Nadex,India,INR,1391100,Year
+FF485327N,ravish.kumar@nadex.com,,,,5-Jan-23,Nadex,India,INR,1396350,Year
+FF475765N,riaz.mohammed@nadex.com,,,,5-Jan-23,Nadex,India,INR,3069600,Year
+FF415308N,Shweta.Arasu@nadex.com,,,,5-Jan-23,Nadex,India,INR,1442100,Year
+FF459477N,sudarshana.basak@nadex.com,,,,5-Jan-23,Nadex,India,INR,1111076,Year
+FF434148N,sujitha.amudhuraj@nadex.com,,,,1-Feb-23,Nadex,India,INR,1878495,Year
+FF492675N,swagatika.naik@nadex.com,,,,5-Jan-23,Nadex,India,INR,2559300,Year
+FF419188N,yellanki.saisruthi@nadex.com,,,,5-Jan-23,Nadex,India,INR,2661300,Year
+FF431094N,marek.zborowski@nadex.com,,,,5-Jan-23,Nadex,Poland,PLN,145309,Year
+NAD033,aleksey.grinash@nadex.com,Grinash, Aleksey,,5-Jan-23,Nadex,United States,USD,100000,Year
+NAD034,erik.cotsonas@nadex.com,Cotsonas, Erik,,5-Jan-23,Nadex,United States,USD,190000,Year
+NAD035,jay.panchal@nadex.com,Panchal, Jay,,5-Jan-23,Nadex,United States,USD,91800,Year
+NAD036,hisham.madani@nadex.com,Madani, Hisham,,5-Jan-23,Nadex,United States,USD,83200,Year
+NAD037,hasan.Fakher@nadex.com,Fakher, Hasan,,5-Jan-23,Nadex,United States,USD,81600,Year
+NAD038,donny.jekels@nadex.com,Jekels, Donny,,5-Jan-23,Nadex,United States,USD,173400,Year
+NAD039,tyrone.kimp@nadex.com,Kimp, Tyrone,,5-Jan-23,Nadex,United States,USD,165000,Year
